@@ -1,7 +1,7 @@
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">,I'm Ortiqov Akmal</h1>
 <h3 align="center">Hi everyone, I'm a node js junior developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ortiqovdev&label=Profile%20views&color=0e75b6&style=flat" alt="ortiqovdev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ortiqovdev&label=Profile%20views&color=0e75b6&style=flat" alt="ortiqovdev" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
